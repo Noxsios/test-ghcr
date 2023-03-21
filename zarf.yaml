@@ -6,7 +6,7 @@ metadata:
   url: https://github.com/noxsios/test-ghcr
   authors: razzle
   documentation: some ref
-  source: same as url
+  source: https://github.com/noxsios/test-ghcr
   vendor: me myself and i
 
 components:
