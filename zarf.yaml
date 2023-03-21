@@ -2,7 +2,12 @@ kind: ZarfPackageConfig
 metadata:
   name: helm-oci-chart
   description: Deploy podinfo using a Helm OCI chart
-  version: 0.0.1
+  version: 0.0.2
+  url: https://github.com/noxsios/test-ghcr
+  authors: razzle
+  documentation: some ref
+  source: same as url
+  vendor: me myself and i
 
 components:
   - name: helm-oci-chart
